@@ -3,6 +3,6 @@ pillow==7.0.0
 packaging==20.3
 ipywidgets==7.5.1
 pydicom==1.4.2
-fastai
+fastai2
 kornia
 scikit-image
